@@ -16,11 +16,11 @@ _This is also Italic
 
 This is my unorder to-do list
 
-*Table
-*Line Breaks
-*Checklist
-*Links
-  *Audio
-  *Youtube
-[ ]Go
-[ ]Hi
+* Table
+* Line Breaks
+* Checklist
+* Links
+  * Audio
+  * Youtube
+[ ] Go
+[ ] Hi
