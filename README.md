@@ -8,6 +8,13 @@
 
 ***This is Italic*** 
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)]</a>
-[![Foo](http://i.imgur.com/7XsR1.jpg)](http://i.imgur.com)
+_This is also Italic
+
+[<img src="https://i.imgur.com/l6qyhlr.gif">](http://i.imgur.com/)
+<a href="https://media.giphy.com/" rel="some text">![Title](https://media.giphy.com/media/srdQojcvrqG3u/giphy.gif)]</a>
+[![Title](http://i.imgur.com/7XsR1.jpg)](http://i.imgur.com)
+
+YouTube Video
+Table
+Checklist
+Audio
