@@ -19,3 +19,5 @@ This is my unorder to-do list
 - [ ]Table
 - [ ]Checklist
 - [ ]Audio?
+- [ ]Go
+- [x]Hi
