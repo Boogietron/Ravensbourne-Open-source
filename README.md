@@ -1,12 +1,12 @@
 # Design and Coding Test
 
-# This is a big title 
-## This is a smaller title 
-### This is an even smaller title 
+# This is a big title
+## This is a smaller title
+### This is an even smaller title
 
 **This is a bold text**
 
-***This is Italic*** 
+***This is Italic***
 
 _This is also Italic
 
@@ -23,11 +23,14 @@ This is my unorder to-do list
   * Audio
   * Youtube
 
-1. This 
+1. This
 2. Is
 3. An
 4. Ordered
 5. List
 
-<a href="https://www.youtube.com/watch?v=kgaO45SyaO4" target="_blank"><img src="https://i.ytimg.com/vi/kgaO45SyaO4/hqdefault.jpg?sqp=-oaymwEWCNIBEHZIWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAGBDJy52reSZLuHpxH3hCSvlWR1w" 
+<a href="https://www.youtube.com/watch?v=kgaO45SyaO4" target="_blank"><img src="https://i.ytimg.com/vi/kgaO45SyaO4/hqdefault.jpg?sqp=-oaymwEWCNIBEHZIWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAGBDJy52reSZLuHpxH3hCSvlWR1w"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+# This is an addition made by Tor your tutor
+## I am amazing
