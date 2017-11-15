@@ -22,5 +22,12 @@ This is my unorder to-do list
 * Links
   * Audio
   * Youtube
-[ ] Go
-[ ] Hi
+
+1. This 
+2. Is
+3. An
+4. Ordered
+5. List
+
+<a href="https://www.youtube.com/watch?v=kgaO45SyaO4" target="_blank"><img src="https://i.ytimg.com/vi/kgaO45SyaO4/hqdefault.jpg?sqp=-oaymwEWCNIBEHZIWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAGBDJy52reSZLuHpxH3hCSvlWR1w" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
