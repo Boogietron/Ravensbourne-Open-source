@@ -15,9 +15,12 @@ _This is also Italic
 [![Title](http://i.imgur.com/7XsR1.jpg)](http://i.imgur.com)
 
 This is my unorder to-do list
-- [ ]YouTube Video
-- [ ]Table
-- [ ]Checklist
-- [ ]Audio?
-- [ ]Go
-- [x]Hi
+
+*Table
+*Line Breaks
+*Checklist
+*Links
+  *Audio
+  *Youtube
+[ ]Go
+[ ]Hi
